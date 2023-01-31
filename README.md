@@ -7,8 +7,11 @@ Modelling evolution of concentrations of reactants and product and the rate of t
 ### equation system
 
 $$\frac{d[S]}{dt}=-k_1[E][S]+k_{-1}[ES]$$
+
 $$\frac{d[E]}{dt}=-k_1[E][S]+(k_{-1}+k_2)[ES]$$
+
 $$\frac{d[ES]}{dt}=k_1[E][S]-(k_{-1}+k_2)[ES]$$
+
 $$\frac{d[P]}{dt}=k_2[ES]\equiv v$$
 
 $[S]$ : substrate concentration <br>
