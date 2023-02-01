@@ -2,6 +2,8 @@
 
 Modelling evolution of concentrations of reactants and product and the rate of the reaction.
 
+![competitive_inh](https://user-images.githubusercontent.com/65451658/215441132-1b1906b9-c432-4902-bc57-e0d73f86b518.png)
+
 ## **1. Simple catalytic reaction**
 
 ### equation system
@@ -41,4 +43,4 @@ Higher the $\alpha$, smaller amount of P will be formed. To increase alpha, eith
 
 With enough of substrate, the original vmax can be achieved, because there will be enough of S to compete for the enzyme binding site.
 
-![competitive_inh](https://user-images.githubusercontent.com/65451658/215441132-1b1906b9-c432-4902-bc57-e0d73f86b518.png)
+
